@@ -275,14 +275,14 @@ MoM Fraud Rate Change (pp) = VAR PrevMonthRate = [Previous Month Fraud Rate]
 
 ```
 ├── python/
-│   ├── data_preprocessing.ipynb
-│   └── feature_engineering.ipynb
+│   ├── Data_Cleaning_and_Feature_Engineering.ipynb
+│   └── Data_Filtering.py
 ├── excel/
 │   └── Financial_Transactions_Analysis.xlsx
 ├── powerbi/
-│   └── Financial_Transactions_Dashboard.pbix
+│   └── Financial_Transactions_Dashboard.pbix  # Excluded from repository (size limit)
 ├── data/
-│   ├── fact_transactions.csv
+│   ├── fact_transactions.csv                  # Excluded from repository (1.16M rows)
 │   ├── dim_users.csv
 │   ├── dim_cards.csv
 │   └── dim_mcc.csv
