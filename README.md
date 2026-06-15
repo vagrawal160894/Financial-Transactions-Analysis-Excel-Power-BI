@@ -297,7 +297,8 @@ MoM Fraud Rate Change (pp) = VAR PrevMonthRate = [Previous Month Fraud Rate]
 │   ├── pbi_fraud_overview.png
 │   ├── pbi_fraud_analysis.png
 │   └── pbi_merchant_insights.png
-├── Project_Report.pdf
+├── reports/
+│  ├── Financial_Transactions_Analysis.pdf
 └── README.md
 ```
 
